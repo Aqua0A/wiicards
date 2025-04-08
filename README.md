@@ -1,5 +1,6 @@
 # wiicards
 A Balatro mod based around all things Wii.
+Created by Aqua0 & groundship
 
 # Issues
 
