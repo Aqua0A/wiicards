@@ -9,3 +9,7 @@ With the multiplayer mod (https://github.com/Balatro-Multiplayer/BalatroMultipla
 # it doesn't exist 
 
 it just doesn't, what can we say
+
+# why are you still here
+
+just to suffer?
